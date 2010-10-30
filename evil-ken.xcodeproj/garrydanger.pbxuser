@@ -23,7 +23,7 @@
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = E767B29C1279751C0035B9D5 /* evil-ken */;
-		activeSDKPreference = iphonesimulator4.1;
+		activeSDKPreference = iphoneos4.1;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* evil-ken */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* evil-ken */,
@@ -240,6 +240,7 @@
 			E7AF920C127BE51800340531 /* PBXTextBookmark */ = E7AF920C127BE51800340531 /* PBXTextBookmark */;
 			E7AF920F127BE54E00340531 /* PBXTextBookmark */ = E7AF920F127BE54E00340531 /* PBXTextBookmark */;
 			E7AF9216127BE56200340531 /* PBXTextBookmark */ = E7AF9216127BE56200340531 /* PBXTextBookmark */;
+			E7AF9219127BE5D200340531 /* PBXTextBookmark */ = E7AF9219127BE5D200340531 /* PBXTextBookmark */;
 		};
 		sourceControlManager = E767B2AD127975500035B9D5 /* Source Control */;
 		userBuildSettings = {
@@ -1383,6 +1384,16 @@
 		vrLoc = 2895;
 	};
 	E7AF9216127BE56200340531 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.m */;
+		name = "HelloWorldScene.m: 118";
+		rLen = 0;
+		rLoc = 3483;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 2895;
+	};
+	E7AF9219127BE5D200340531 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 506EDC30102F528A00A389B3 /* HelloWorldScene.m */;
 		name = "HelloWorldScene.m: 118";

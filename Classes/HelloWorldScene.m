@@ -138,6 +138,9 @@ CCAnimation* getDragonFrames()
 	
 	// don't forget to call "super dealloc"
   [[CCSpriteFrameCache sharedSpriteFrameCache] removeUnusedSpriteFrames];
+  [playIdleAction dealloc];
+  [dragonAction dealloc];
+  [idleAction dealloc];
 	[super dealloc];
 }
 @end
