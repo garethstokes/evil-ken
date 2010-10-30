@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>idle1.png</key>
+		<dict>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceSize</key>
+			<string>{50, 90}</string>
+			<key>frame</key>
+			<string>{{0, 180}, {50, 90}}</string>
+		</dict>
+		<key>idle2.png</key>
+		<dict>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceSize</key>
+			<string>{50, 90}</string>
+			<key>frame</key>
+			<string>{{0, 90}, {50, 90}}</string>
+		</dict>
+		<key>idle3.png</key>
+		<dict>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceSize</key>
+			<string>{48, 90}</string>
+			<key>frame</key>
+			<string>{{0, 270}, {48, 90}}</string>
+		</dict>
+		<key>idle4.png</key>
+		<dict>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 90}}</string>
+			<key>offset</key>
+			<string>{0, -0}</string>
+			<key>sourceSize</key>
+			<string>{50, 90}</string>
+			<key>frame</key>
+			<string>{{0, 0}, {50, 90}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>1</integer>
+		<key>size</key>
+		<string>{64, 512}</string>
+	</dict>
+</dict>
+</plist>
